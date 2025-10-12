@@ -164,3 +164,5 @@ function somarIdades(somatorio, idade){
 // VAR -> respeita escobo global e de função
 // LET e CONST -. respeitam escopo global, de função e de bloco
 // bloco pode ser qualquer coisa que use chaves { ... }
+
+so finge q estuda
