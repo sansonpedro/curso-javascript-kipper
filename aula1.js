@@ -7,7 +7,7 @@ console.log("Você tem " + idade + " anos.");
 let eMaiorDeIdade = idade >= 18;
 console.log("É maior de idade? " + eMaiorDeIdade);
 
-// null e undefined
+// null e undefined teste
 
 let endereco = null;
 console.log("Endereço:", endereco);
